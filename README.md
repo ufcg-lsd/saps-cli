@@ -59,7 +59,7 @@ bash get-task-by-id <user-email> <user-password> <task-id> <dispatcher-address>
 ### How to use
 
 ```bash
-bash get-task-links
+bash get-task-links <user-email> <user-password> <task-id> <dispatcher-address>
 ```
 
 ### Result
