@@ -1,5 +1,7 @@
 # SAPS CLI
 
+This repository maintains CLI's for communication with API from the SAPS backend.
+
 ## get-all-tasks
 
 ### How to use
